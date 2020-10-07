@@ -1,3 +1,5 @@
+![SQL](https://img.shields.io/badge/Tool-MySQL-blue) 
+
 # SQL-Assignment-with-solution
 
 ![Logos](https://i.pinimg.com/originals/1e/e0/8c/1ee08c781f2291bf7a9557b570271b26.png)
